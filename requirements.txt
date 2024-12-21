@@ -1,3 +1,4 @@
-scrapy ~= 2.11.1
-gspread ~= 6.1.0
-google-api-python-client 
+scrapy~=2.11.1
+gspread~=6.1.0
+google-api-python-client
+gspread-formatting
